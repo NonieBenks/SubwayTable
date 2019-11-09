@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+body{
+    background-color: #004B96;
+    font-family: 'Roboto Mono', monospace;
+    margin:0;
+}
+span, p {
+    font-size: 64px;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+}
+#clock{
+    font-size: 64px;
+    color: #FFD000;
+}
+#stopwatch{
+    text-align: center;
+    color: #FFB8B2;
+    font-size: 64px;
+}
+#clear{
+    height: 50px;
+    background-color: #E51227;
+    font-size: 24px;
+    color: white;
+    border-width: 0;
+}
+.endStation{
+    float: left;
+    margin: 0;
+    color: #FFD000;
+}
+
+
+
